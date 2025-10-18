@@ -1,3 +1,6 @@
-# 7p_sprint
+# Sprint_7
+Запуск всех тестов с генерацией отчетов командой: python -m pytest --alluredir allure-results
 
-тестовое ревью
+Просмотреть полученные отчеты командой: allure serve allure-results
+
+
